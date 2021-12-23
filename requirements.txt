@@ -1,0 +1,7 @@
+Keras
+validators
+Flask
+tensorflow_gpu
+Werkzeug
+numpy
+tensorflow
